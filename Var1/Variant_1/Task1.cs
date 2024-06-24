@@ -87,12 +87,16 @@ namespace Variant_1
         }
 
 
-        public string ToString()
+        public override string ToString()
         {
             string result = "";
-            foreach (var n in numbers)
+            for (int i = 0; i < numbers.Length; i++)
             {
-                result += n.Real.ToString() + "\n";
+                result += "Number = " + numbers[i].Real;
+                if (i < numbers.Length - 1)
+                {
+                    result += "\n";
+                }
             }
             return result;
         }
