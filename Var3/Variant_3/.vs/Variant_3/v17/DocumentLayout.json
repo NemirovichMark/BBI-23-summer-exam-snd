@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Markosias\\source\\repos\\BBI-23-summer_exam\\Var3\\Variant_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49A5BC4B-7494-4DD5-BF07-7E534D69DAE3}|Variant_3.csproj|c:\\users\\markosias\\source\\repos\\bbi-23-summer_exam\\var3\\variant_3\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A5BC4B-7494-4DD5-BF07-7E534D69DAE3}|Variant_3.csproj|solutionrelative:task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A5BC4B-7494-4DD5-BF07-7E534D69DAE3}|Variant_3.csproj|c:\\users\\markosias\\source\\repos\\bbi-23-summer_exam\\var3\\variant_3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A5BC4B-7494-4DD5-BF07-7E534D69DAE3}|Variant_3.csproj|solutionrelative:task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A5BC4B-7494-4DD5-BF07-7E534D69DAE3}|Variant_3.csproj|c:\\users\\markosias\\source\\repos\\bbi-23-summer_exam\\var3\\variant_3\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A5BC4B-7494-4DD5-BF07-7E534D69DAE3}|Variant_3.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A5BC4B-7494-4DD5-BF07-7E534D69DAE3}|Variant_3.csproj|c:\\users\\markosias\\source\\repos\\bbi-23-summer_exam\\var3\\variant_3\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A5BC4B-7494-4DD5-BF07-7E534D69DAE3}|Variant_3.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "C:\\Users\\Markosias\\source\\repos\\BBI-23-summer_exam\\Var3\\Variant_3\\Task4.cs",
+              "RelativeDocumentMoniker": "Task4.cs",
+              "ToolTip": "C:\\Users\\Markosias\\source\\repos\\BBI-23-summer_exam\\Var3\\Variant_3\\Task4.cs",
+              "RelativeToolTip": "Task4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:48:44.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\Users\\Markosias\\source\\repos\\BBI-23-summer_exam\\Var3\\Variant_3\\Task3.cs",
+              "RelativeDocumentMoniker": "Task3.cs",
+              "ToolTip": "C:\\Users\\Markosias\\source\\repos\\BBI-23-summer_exam\\Var3\\Variant_3\\Task3.cs",
+              "RelativeToolTip": "Task3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:48:41.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\Markosias\\source\\repos\\BBI-23-summer_exam\\Var3\\Variant_3\\Task2.cs",
+              "RelativeDocumentMoniker": "Task2.cs",
+              "ToolTip": "C:\\Users\\Markosias\\source\\repos\\BBI-23-summer_exam\\Var3\\Variant_3\\Task2.cs",
+              "RelativeToolTip": "Task2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:48:37.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\Markosias\\source\\repos\\BBI-23-summer_exam\\Var3\\Variant_3\\Task1.cs",
+              "RelativeDocumentMoniker": "Task1.cs",
+              "ToolTip": "C:\\Users\\Markosias\\source\\repos\\BBI-23-summer_exam\\Var3\\Variant_3\\Task1.cs",
+              "RelativeToolTip": "Task1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:48:36.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
