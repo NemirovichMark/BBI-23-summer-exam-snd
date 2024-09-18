@@ -1,15 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-#region Выберите библиотеку(и) для сериализации
-// using Newtonsoft;
-// using System.Text.Json;
-// using System.Text.Json.Serialization;
-#endregion
+using System.IO;
+using System.Text.Json;
+using static Variant_1.Task3;
+
 namespace Variant_1
 {
     public class Task4
     {
+        interface ICreator
+        {
+
+        }
+
+        public abstract class AbstractSerializer 
+        {
+
+        }
+
+        public class SearcherSerialize
+        {
+          
+        }
+        public Task4(Searcher searcher)
+        {
+
+        }
     }
 }
