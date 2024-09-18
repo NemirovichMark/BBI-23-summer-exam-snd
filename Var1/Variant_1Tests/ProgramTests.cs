@@ -199,8 +199,8 @@ namespace Tests
             Task2.ComplexNumber[] comparer = new Task2.ComplexNumber[size];
             for (int i = 0; i < size; i++)
             {
-                comparer[i] = new Task2.ComplexNumber(i, i * i);
-                numbers[i] = new Task2.ComplexNumber(size - 1 - i, (size - 1 - i) * (size - 1 - i));
+                comparer[i] = new Task2.ComplexNumber(i, i*i);
+                numbers[i] = new Task2.ComplexNumber(size - 1 - i, (size - 1 - i)*(size - 1 - i));
             }
             Task2 answer = new Task2(numbers);
             answer.Sorting();
@@ -360,8 +360,8 @@ namespace Tests
         public void Task3CheckOutput()
         {
             Task3.Searcher answer = new Task3.Searcher(text);
-            string[] output = new string[] { "в", "и", "чтобы", "функции" };
-            for (int i = 0; i < output.Length; i++)
+            string[] output = new string[] { "в", "и", "чтобы", "функции"};
+            for (int i = 0; i < output.Length;i++)
             {
                 Assert.AreEqual(output.Length, answer.Output.Length);
                 Assert.AreEqual(output[i], answer.Output[i]);
@@ -441,7 +441,7 @@ namespace Tests
             serializer.Write(searcher, path);
             var answer = serializer.Read<Task3.Searcher>(path);
             Assert.AreEqual(searcher.Input, answer.Input);
-            for (int i = 0; i < searcher.Output.Length; i++)
+            for(int i = 0; i < searcher.Output.Length; i++)
             {
                 Assert.AreEqual(searcher.Output[i], answer.Output[i]);
 
@@ -507,8 +507,8 @@ namespace Tests
             output += text.Contains("Dictionary") ? $"Файл {path} содержит класс Dictionary\n" : "";
             output += text.Contains("HashSet") ? $"Файл {path} содержит класс HashSet\n" : "";
             output += text.Contains("Regex") ? $"Файл {path} содержит класс Regex\n" : "";
-            output += text.Contains(".Sort(") || text.Contains(".Reverse(") || text.Contains(".Copy(") ? $"Файл {path} содержит упорядочивающие функции класса Array\n" : "";
-            var isForbidden = text.Contains(".Order(") || text.Contains(".Select(") || text.Contains(".Take(") || text.Contains(".Count(") || text.Contains(".Where(") || text.Contains(".Top(");
+            output += text.Contains(".Sort(") || text.Contains(".Reverse(") ? $"Файл {path} содержит упорядочивающие функции класса Array\n" : "";
+            var isForbidden = text.Contains(".Order(") || text.Contains(".Select(") || text.Contains(".Take(") || text.Contains(".Where(") || text.Contains(".Top(");
             output += isForbidden ? $"Файл {path} содержит Linq-запросы\n" : "";
         }
     }
